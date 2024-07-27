@@ -2,9 +2,13 @@
 
 <div align=center>
 
-Anyounghaseyo(안녕하세요)🙇‍♂️
+Welcome = ["Anyounghaseyo", "안녕하세요"]🙇‍♂️
 
-🎯 A self-taught passionate creative developer from Republic of Korea
+Name = "Kwon Chang-beom"
+
+Coder = "갓 입문한 프로그래머"
+
+print(Welcome, Name, Coder)
 
 </div>
 
