@@ -1,5 +1,3 @@
-<p align="center"><a href=""><img width="20%" alt="Hello, I do open source!" src="./src/hello.png" /></a></p>
-
 <div align=center>
 
 Welcome = ["Anyounghaseyo", "안녕하세요"]🙇‍♂️
